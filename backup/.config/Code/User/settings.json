@@ -1,0 +1,35 @@
+{
+    "terminal.integrated.cursorStyle": "line",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Ayu Dark",
+    "editor.wordWrap": "on",
+    "files.trimTrailingWhitespace": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Menlo for Powerline','Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "breadcrumbs.enabled": true,
+    "workbench.colorCustomizations": {
+        "editor.selectionHighlightBorder": "#4fbeff"
+    },
+    "terminal.integrated.fontFamily": "'Menlo for Powerline'",
+    "editor.renderWhitespace": "none",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.venvFolders": [
+        "envs",
+        ".pyenv",
+        ".direnv",
+        "virtualenvs"
+      ],
+      "python.formatting.autopep8Args": [
+          "-a",
+          "--max-line-length=120",
+          "--ignore=E501"
+    ],
+    "files.insertFinalNewline": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "liveshare.featureSet": "insiders",
+    "extensions.ignoreRecommendations": false
+}

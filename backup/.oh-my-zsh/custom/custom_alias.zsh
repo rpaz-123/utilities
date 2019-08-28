@@ -1,0 +1,2 @@
+alias svm="ssh vmpf"
+

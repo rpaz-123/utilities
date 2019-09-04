@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "/home/paz/projects/sincola"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.classpath": true,
+			"**/.project": true,
+			"**/.settings": true,
+			"**/.factorypath": true
+		},
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"ruby.lint": {
+			"ruby": true,
+			"rubocop": true
+		}
+	}
+}

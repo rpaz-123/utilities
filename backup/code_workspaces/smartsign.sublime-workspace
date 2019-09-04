@@ -1,0 +1,703 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"respo",
+				"responsive-img"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pdf",
+				"pdf_sign"
+			],
+			[
+				"php",
+				"phpmyadmin-suva"
+			],
+			[
+				"hitalos",
+				"hitalos_laravel"
+			],
+			[
+				"IP",
+				"IP_ADDRESS"
+			],
+			[
+				"accoun",
+				"account_copy"
+			],
+			[
+				"acc",
+				"account"
+			],
+			[
+				"search",
+				"search_path"
+			],
+			[
+				"api",
+				"api_url"
+			],
+			[
+				"sear",
+				"search_path"
+			],
+			[
+				"ed",
+				"edit_path"
+			],
+			[
+				"status",
+				"status_code"
+			],
+			[
+				"all",
+				"all_accounts"
+			],
+			[
+				"json",
+				"json_data"
+			],
+			[
+				"sm2we",
+				"sm2web_gums"
+			],
+			[
+				"ENV",
+				"ENV_VAR_COMMAND"
+			],
+			[
+				"ENV_V",
+				"ENV_VAR_ADD_COMMAND"
+			],
+			[
+				"env",
+				"env_var_add"
+			],
+			[
+				"ENV_VA",
+				"ENV_VAR_EXPR"
+			],
+			[
+				"STANA",
+				"STANDALONE_SERVICES_ENV_VARS"
+			],
+			[
+				"docker",
+				"docker_images"
+			],
+			[
+				"SER",
+				"SERVICES_ENV_VARS"
+			],
+			[
+				"SERVI",
+				"SERVICES_ENV_VAR"
+			],
+			[
+				"sm2",
+				"sm2_docker_service"
+			],
+			[
+				"elk",
+				"elk_elasticsearch_volume"
+			],
+			[
+				"service",
+				"service_placement"
+			],
+			[
+				"placem",
+				"service_placement"
+			],
+			[
+				"place",
+				"placement-pref"
+			],
+			[
+				"ser",
+				"service_placement"
+			],
+			[
+				"en",
+				"environment"
+			],
+			[
+				"elastic",
+				"elasticsearch"
+			],
+			[
+				"SEA",
+				"SEARCH_IP_ADDR"
+			],
+			[
+				"get_",
+				"get_url_json"
+			],
+			[
+				"sleep",
+				"sleep_time"
+			],
+			[
+				"slee",
+				"sleep_time"
+			],
+			[
+				"es_",
+				"es_host"
+			],
+			[
+				"es",
+				"es_conn_result"
+			],
+			[
+				"try",
+				"try\tTry/Except/Else"
+			],
+			[
+				"succes",
+				"successful_con"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inden",
+		"selected_items":
+		[
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sav",
+				"File: Save All"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"docker",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"nginx",
+				"Set Syntax: nginx"
+			],
+			[
+				"prefere",
+				"Preferences: Settings"
+			],
+			[
+				"syntax doc",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"synta bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"python",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"set text",
+				"Set Syntax: Textile"
+			],
+			[
+				"set bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			]
+		],
+		"width": 479.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"view.settings().get('font_face')",
+			"echo HOLA"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/emkode/projects/smartsign/smartsign/pdfsign/src/main/java/pdfsign/rest/NOM151.java",
+		"/home/emkode/projects/smartsign/smartsign/pdfsign/src/main/resources/application.yml",
+		"/home/emkode/projects/materialize/starter-template/js/init.js",
+		"/home/emkode/projects/materialize/starter-template/index.html",
+		"/home/emkode/projects/trading/mono_crypto/docker-compose.yml",
+		"/home/emkode/projects/pagefreezer/SocialMedia-2.0/docs/apiserver/API_definition/swagger_schema.yaml",
+		"/home/emkode/projects/materialize/starter-template/miCoche1.html",
+		"/home/emkode/projects/materialize/materialize/index.html",
+		"/home/emkode/projects/elviejito/uva/apache-conf/suva.conf",
+		"/home/emkode/projects/elviejito/uva/app/Http/Controllers/ServiceIncidencesController.php",
+		"/home/emkode/projects/elviejito/uva/.dockerignore",
+		"/home/emkode/projects/elviejito/uva/.env",
+		"/home/emkode/projects/elviejito/uva/scripts/build_image.sh",
+		"/home/emkode/projects/elviejito/uva/Dockerfile",
+		"/home/emkode/projects/elviejito/uva/apache-conf/apache2.conf",
+		"/home/emkode/projects/elviejito/uva/public/.htaccess",
+		"/home/emkode/projects/elviejito/uva/scripts/init_apache.sh",
+		"/home/emkode/projects/elviejito/uva/public/app/scripts/services/index.js",
+		"/home/emkode/projects/elviejito/uva/app/Http/Controllers/ServiceSignController.php",
+		"/home/emkode/projects/elviejito/uva/ssl/001-default-ssl.conf",
+		"/home/emkode/projects/elviejito/uva/ssl/000-default.conf",
+		"/home/emkode/projects/botanas/botanas/cron_jobs/error_log",
+		"/home/emkode/projects/elviejito/emkode_infra/kubernetes/pdf-sign/pdf-sign-deployment.yml",
+		"/home/emkode/projects/botanas/packages/dependenciesComposer/composer.json",
+		"/home/emkode/projects/elviejito/pdfsign/run.sh",
+		"/home/emkode/projects/elviejito/pdfsign/src/main/resources/application_back.properties",
+		"/home/emkode/projects/trading/mono_crypto/.dbenv",
+		"/home/emkode/projects/elviejito/emkode_infra/Readme.md",
+		"/home/emkode/projects/elviejito/emkode_infra/kubernetes/pdf-sign/pdf-sign-service.yml",
+		"/home/emkode/projects/elviejito/pdfsign/src/main/java/pdfsign/rest/PDFSignService.java",
+		"/home/emkode/projects/elviejito/pdfsign/config.json",
+		"/home/emkode/projects/elviejito/emkode_infra/kubernetes/suva/mysql-deployment.yml",
+		"/home/emkode/projects/elviejito/emkode_infra/kubernetes/suva/mysql-service.yml",
+		"/home/emkode/projects/elviejito/uva/php.ini",
+		"/home/emkode/projects/elviejito/emkode_infra/kubernetes/suva/suva-deployment.yml",
+		"/home/emkode/Downloads/storage/logs/laravel.log",
+		"/home/emkode/projects/elviejito/uva/config/session.php",
+		"/home/emkode/projects/elviejito/uva/app/Http/Controllers/ServicesController.php",
+		"/home/emkode/projects/elviejito/uva/app/Object.php",
+		"/home/emkode/projects/elviejito/uva/docker-compose.yml",
+		"/home/emkode/projects/elviejito/emkode_infra/kubernetes/suva/phpmyadmin-service.yml",
+		"/home/emkode/projects/elviejito/emkode_infra/kubernetes/suva/phpmyadmin-deployment.yml",
+		"/home/emkode/projects/elviejito/emkode_infra/kubernetes/suva/suva-service.yml",
+		"/home/emkode/projects/elviejito/emkode_infra/kubernetes/suva/suva-secrets.yml",
+		"/home/emkode/projects/elviejito/emkode_infra/kubernetes/suva/Readme.md",
+		"/home/emkode/projects/elviejito/uva/Dockerfile3",
+		"/home/emkode/projects/elviejito/uva/database/seeds/DatabaseSeeder.php",
+		"/home/emkode/projects/elviejito/uva/Dockerfile2",
+		"/home/emkode/projects/elviejito/uva/composer.json",
+		"/home/emkode/projects/elviejito/uva/apache2-laravel.conf",
+		"/home/emkode/projects/botanas/botanas/docker-compose.yaml",
+		"/home/emkode/projects/anet/docker-compose.yaml",
+		"/home/emkode/projects/trading/mono_crypto/trading_api/requirements.txt",
+		"/home/emkode/projects/php.ini",
+		"/home/emkode/projects/botanas/botanas/bootstrap/lib/external/composer/autoload_real.php",
+		"/home/emkode/projects/botanas/packages/phug_0.2.4/vendor/autoload.php",
+		"/home/emkode/projects/laraveltest/laravel/.env",
+		"/home/emkode/.cache/.fr-CDZxQB/vendor/autoload.php",
+		"/home/emkode/.cache/.fr-RhDQhA/index.php",
+		"/home/emkode/projects/botanas/packages/phug/phug",
+		"/home/emkode/projects/botanas/botanas/plantas/entregar-insumos.php",
+		"/home/emkode/Documents/view-source_localhost_8080_proveedores_insumos_.html",
+		"/home/emkode/projects/trading/mono_crypto/trading_api/Dockerfile",
+		"/home/emkode/projects/trading/mono_crypto/trading_detector/local_settings.json.default",
+		"/home/emkode/projects/trading/mono_crypto/trading_detector/local_settings.json",
+		"/home/emkode/Downloads/SecLists-master/Passwords/10_million_password_list_top_100000.txt",
+		"/home/emkode/Downloads/SecLists-master/Passwords/10k_most_common.txt",
+		"/home/emkode/Downloads/SecLists-master/Passwords/Lizard_Squad.txt",
+		"/home/emkode/Downloads/SecLists-master/Passwords/elitehacker-withcount.txt",
+		"/home/emkode/Downloads/SecLists-master/Passwords/bible.txt",
+		"/home/emkode/Downloads/SecLists-master/Passwords/darkweb2017_top10K.txt",
+		"/home/emkode/Downloads/SecLists-master/Passwords/best110.txt",
+		"/home/emkode/projects/botanas/packages/php_files/vendor/composer/autoload_real.php",
+		"/home/emkode/projects/botanas/packages/php_files/vendor/autoload.php",
+		"/home/emkode/projects/botanas/botanas/.botanas_env.default",
+		"/home/emkode/projects/botanas/botanas/.botanas_env",
+		"/home/emkode/projects/botanas/botanas/bootstrap/lib/external/vlucas/phpdotenv/src/Dotenv.php",
+		"/home/emkode/projects/botanas/packages/php_files/index.php",
+		"/home/emkode/projects/botanas/botanas/bootstrap/init.php",
+		"/home/emkode/projects/botanas/botanas/bootstrap/class/Dotenv/Loader.php",
+		"/home/emkode/projects/botanas/packages/autoload.php",
+		"/home/emkode/projects/botanas/botanas/bootstrap/class/phpdotenv/Dotenv.php",
+		"/home/emkode/projects/botanas/packages/ClassLoader.php",
+		"/home/emkode/.cache/.fr-g0nTMO/vendor/vlucas/phpdotenv/composer.json",
+		"/home/emkode/.cache/.fr-NRyB4m/vendor/composer/installed.json",
+		"/home/emkode/projects/botanas/botanas/bootstrap/config.php",
+		"/home/emkode/projects/botanas/packages/autoload_real.php",
+		"/home/emkode/projects/botanas/botanas/reportes-ventas/reportes.php",
+		"/home/emkode/.cache/.fr-dE6xJA/index.php",
+		"/home/emkode/projects/botanas/botanas/vendor/composer/installed.json",
+		"/home/emkode/projects/botanas/botanas/vendor/vlucas/phpdotenv/src/Validator.php",
+		"/home/emkode/projects/botanas/botanas/vendor/vlucas/phpdotenv/composer.json",
+		"/home/emkode/projects/botanas/botanas/vendor/vlucas/phpdotenv/src/Loader.php",
+		"/home/emkode/projects/botanas/botanas/vendor/vlucas/phpdotenv/src/Dotenv.php",
+		"/home/emkode/projects/botanas/botanas/vendor/composer/autoload_real.php",
+		"/home/emkode/projects/botanas/botanas/vendor/composer/autoload_psr4.php",
+		"/home/emkode/projects/botanas/botanas/vendor/composer/autoload_namespaces.php",
+		"/home/emkode/projects/trading/mono_crypto/trading_api/migrations/schema.sql",
+		"/home/emkode/projects/trading/mono_crypto/trading_api/migrations/20171229_01_kbSq0-add-trades-table.py",
+		"/home/emkode/projects/botanas/botanas/vendor/composer/autoload_classmap.php",
+		"/home/emkode/projects/trading/mono_crypto/trading_api/handlers/symbols.py",
+		"/home/emkode/projects/trading/mono_crypto/trading_api/migrations/20171228_01_t9cOM-add-trading-order-table.py",
+		"/home/emkode/conf/nginx (copy).conf",
+		"/home/emkode/conf/docker-compose.yml",
+		"/home/emkode/conf/nginx.conf",
+		"/media/emkode/Ubuntu 16.04.3 LTS amd64/md5sum.txt",
+		"/media/emkode/Ubuntu 16.04.3 LTS amd64/README.diskdefines",
+		"/home/emkode/Downloads/flathub.flatpakrepo",
+		"/home/emkode/Projects/pagefreezer/Frontend-2.0/env.json",
+		"/home/emkode/Projects/pagefreezer/Frontend-2.0/Dockerfile",
+		"/home/emkode/Projects/pagefreezer/SocialMedia-2.0/scripts/add_test_accounts.py",
+		"/home/emkode/Projects/pagefreezer/docker_images/runds",
+		"/home/emkode/Projects/pagefreezer/filebeat_dock/filebeat.yml",
+		"/home/emkode/Projects/pagefreezer/SocialMedia-2.0/etc/elk/fb.docker-compose.yml",
+		"/home/emkode/Projects/pagefreezer/SocialMedia-2.0/etc/sc2.sh",
+		"/home/emkode/Projects/pagefreezer/SocialMedia-2.0/etc/push_to_registry.sh",
+		"/home/emkode/Projects/pagefreezer/SocialMedia-2.0/src/sm2/services/apiserver/handlers/socialmedia.py",
+		"/home/emkode/Projects/pagefreezer/SocialMedia-2.0/scripts/api_client.py",
+		"/home/emkode/Projects/pagefreezer/SocialMedia-2.0/src/sm2/services/connector/lib/social_medias/linkedin/apicaller.py",
+		"/home/emkode/Projects/pagefreezer/SocialMedia-2.0/src/sm2/services/connector/lib/social_medias/linkedin/capture.py",
+		"/home/emkode/Projects/pagefreezer/SocialMedia-2.0/conf/connector/linkedin.yaml",
+		"/home/emkode/Projects/pagefreezer/SocialMedia-2.0/etc/setup_cluster.sh",
+		"/home/emkode/Projects/pagefreezer/SocialMedia-2.0/src/sm2/services/sorter/init.py",
+		"/home/emkode/Projects/pagefreezer/SocialMedia-2.0/src/sm2/services/sorter/lib/networks/linkedin/parser.py",
+		"/home/emkode/Projects/pagefreezer/SocialMedia-2.0/etc/docker_images/docker-compose.yml",
+		"/home/emkode/Projects/pagefreezer/SocialMedia-2.0/etc/build_service.sh",
+		"/home/emkode/Projects/pagefreezer/SocialMedia-2.0/deployment/vm_swarm_hosts.dev",
+		"/home/emkode/Projects/pagefreezer/SocialMedia-2.0/deployment/roles/sm2_dependencies/tasks/main.yml"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"button",
+			"nom1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 103.0
+	},
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "smartsign.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"apphttpcontrollersservicein",
+				"uva/app/Http/Controllers/ServiceIncidencesController.php"
+			],
+			[
+				"scriptsservicesindex",
+				"uva/public/app/scripts/services/index.js"
+			],
+			[
+				"build_im",
+				"uva/scripts/build_image.sh"
+			],
+			[
+				"phpini",
+				"uva/php.ini"
+			],
+			[
+				"servicescontr",
+				"uva/app/Http/Controllers/ServicesController.php"
+			],
+			[
+				"linkedin/parser",
+				"SocialMedia-2.0/src/sm2/services/sorter/lib/networks/linkedin/parser.py"
+			],
+			[
+				"addtest",
+				"SocialMedia-2.0/scripts/add_test_accounts.py"
+			],
+			[
+				"api",
+				"SocialMedia-2.0/scripts/api_client.py"
+			],
+			[
+				"setu",
+				"SocialMedia-2.0/etc/setup_cluster.sh"
+			],
+			[
+				"buildse",
+				"SocialMedia-2.0/etc/build_service.sh"
+			],
+			[
+				"socialmed",
+				"SocialMedia-2.0/src/sm2/services/apiserver/handlers/socialmedia.py"
+			],
+			[
+				"handlers/social",
+				"SocialMedia-2.0/src/sm2/services/apiserver/handlers/socialmedia.py"
+			],
+			[
+				"push",
+				"SocialMedia-2.0/etc/push_to_registry.sh"
+			],
+			[
+				"logstash/",
+				"SocialMedia-2.0/conf/misc/elk/logstash/pipeline/logstash.conf"
+			],
+			[
+				"elk",
+				"SocialMedia-2.0/etc/elk/dclocal.yml"
+			],
+			[
+				"sc2",
+				"SocialMedia-2.0/etc/sc2.sh"
+			],
+			[
+				"logstas",
+				"SocialMedia-2.0/conf/misc/elk/logstash/pipeline/logstash.conf"
+			],
+			[
+				"logstash",
+				"SocialMedia-2.0/conf/misc/elk/logstash/config/logstash.yml"
+			],
+			[
+				"elkdocker",
+				"SocialMedia-2.0/etc/elk/docker-compose.yml"
+			],
+			[
+				"socialme",
+				"SocialMedia-2.0/src/sm2/services/apiserver/handlers/socialmedia.py"
+			],
+			[
+				"elk/dock",
+				"SocialMedia-2.0/etc/elk/docker-compose.yml"
+			],
+			[
+				"ena",
+				"SocialMedia-2.0/scripts/enable_video_capture.py"
+			],
+			[
+				"enab",
+				"SocialMedia-2.0/scripts/enable_video_capture.py"
+			],
+			[
+				"social",
+				"SocialMedia-2.0/src/sm2/services/apiserver/handlers/socialmedia.py"
+			],
+			[
+				"enabl",
+				"SocialMedia-2.0/scripts/enable_video_capture.py"
+			],
+			[
+				"addte",
+				"SocialMedia-2.0/scripts/add_test_accounts.py"
+			],
+			[
+				"capture",
+				"SocialMedia-2.0/src/sm2/services/connector/lib/capture.py"
+			],
+			[
+				"addtes",
+				"SocialMedia-2.0/scripts/add_test_accounts.py"
+			],
+			[
+				"query",
+				"SocialMedia-2.0/src/sm2/services/search/lib/querybuilder.py"
+			],
+			[
+				"crea",
+				"SocialMedia-2.0/etc/create_registry.sh"
+			],
+			[
+				"setuc",
+				"SocialMedia-2.0/etc/setup_cluster.sh"
+			],
+			[
+				"logspo",
+				"SocialMedia-2.0/etc/elk/logspout.sh"
+			],
+			[
+				"setup_clus",
+				"SocialMedia-2.0/etc/setup_cluster.sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 422.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -5,6 +5,7 @@ FILE_PATHS=(
   "~/.oh-my-zsh/custom/"
   "~/.config/Code - Insiders/User/settings.json"
   "~/.config/Code/User/settings.json"
+  "~/code_workspaces/"
 )
 
 CUR_PATH="$(pwd)"

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/home/paz/projects/gps"
+		}
+	],
+	"settings": {
+		"eslint.alwaysShowStatus": true,
+		"eslint.autoFixOnSave": true,
+		"eslint.packageManager": "yarn",
+		"editor.tabSize": 2
+	}
+}

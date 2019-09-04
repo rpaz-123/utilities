@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "/home/paz/projects/myProject"
+		}
+	],
+	"settings": {
+		"files.useExperimentalFileWatcher": true
+	}
+}

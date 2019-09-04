@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "/home/paz/projects/pagefreezer"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/home/paz/virtualenvs/pagefreezer/bin/python",
+		"python.linting.maxNumberOfProblems": 500,
+		"editor.rulers": [
+			88
+		],
+		"python.linting.flake8Enabled": true,
+		"python.linting.flake8Args": [
+			"--max-line-length=88"
+		],
+		"python.formatting.provider": "black",
+		"python.formatting.blackPath": "/usr/local/bin/black",
+		"python.linting.pylintEnabled": false,
+		"files.exclude": {
+			"**/*.pyc": true
+		}
+	}
+}

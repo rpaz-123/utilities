@@ -43,3 +43,11 @@ Switch to the branch and then:
 ```
 git push origin -u new-name
 ```
+
+## Sync local to remote repo
+Sync local repository to match remote repository
+
+```
+git fetch
+git fetch --prune
+```

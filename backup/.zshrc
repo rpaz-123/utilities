@@ -63,8 +63,9 @@ plugins=(
   docker
   git
   colorize
-  #docker-compose
+  docker-compose
   zsh-syntax-highlighting
+  kubectl
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -97,3 +98,10 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# FIX FOR tiliz terminal emulator
+if [ $TILIX_ID ] || [ $VTE_VERSION ]; then
+        source /etc/profile.d/vte.sh
+fi
+
+export KUBECONFIG="$HOME/.kube/config:$HOME/.kube/emkode-infra-prod-kubeconfig.yaml:$HOME/.kube/emkode-infra-stage-kubeconfig.yaml"
